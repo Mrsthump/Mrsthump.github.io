@@ -9,6 +9,6 @@ description: bookmark the website in order to keep up with updates!
  <p>find the manga reveiw variety here!</p>
  </section>
 
-<button onclick="window.location.href='path/to/your/file.html';">
+<button onclick="window.location.href='Manga Selection';">
   Go to File
 </button>
