@@ -9,6 +9,6 @@ description: bookmark the website in order to keep up with updates!
  <p>find the manga reveiw variety here!</p>
  </section>
 
-<a href="mrsthump.github.io/manga selection/html">
-  <button>Go to File</button>
-</a>
+<button onclick="window.location.href='path/to/your/file.html';">
+  Go to File
+</button>
