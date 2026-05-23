@@ -11,6 +11,3 @@ description: bookmark the website in order to keep up with updates!
 <a href="URL_OF_NEW_AREA">
   <button type="button">Go to New Area</button>
 </a>
-new-page.html
-layout: page
-title: New Area
