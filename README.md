@@ -5,7 +5,9 @@ description: bookmark the website in order to keep up with updates!
 
 
 <section>
-<section id="manga selection>
  <h2>The manga review selection</h2>
  <p>find the manga reveiw variety here!</p>
  </section>
+<a href="URL_OF_NEW_AREA">
+  <button type="button">Go to New Area</button>
+</a>
